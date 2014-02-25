@@ -6,11 +6,23 @@ Author:   Nagaraja. T
 Date:     15th January, 2014
 Verion:   1.0.1
 License:  GPL
-Homepage: 
+Homepage: https://github.com/naga2raja/CryptoG
 
 
 CryptoG is simple Encryption/Decryption program using AES,DES and RSA algorithms.
-This CryptoG is written purely in python.
+This CryptoG is written purely in python. 
+
+The following types of Encryption & Decryption is available using CryptoG
+
+1) AES 
+     - AES Encryption & Decryption
+2) DES
+     - Single DES Encryption & Decryption
+     - Triple DES Encryption & Decryption
+3) RSA
+     - Private Key Encryption & Decryption     
+     - Public Key Encryption & Decryption
+     
 
 
 #############################################################################
